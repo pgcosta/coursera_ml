@@ -13,4 +13,5 @@ Course page: https://www.coursera.org/learn/machine-learning/
 ## Matlab resources:
 
 ## Other useful resources:
-[Stanford Deep learning tutorial](http://deeplearning.stanford.edu/tutorial/))
+[Stanford Deep learning tutorial](http://deeplearning.stanford.edu/tutorial/)
+[Course materials](http://cs229.stanford.edu/materials.html)
