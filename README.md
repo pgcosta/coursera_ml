@@ -9,6 +9,7 @@ Course page: https://www.coursera.org/learn/machine-learning/
 ['The matrix cookbook'](http://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 ## Programming resources:
+['Deep learning in python'](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 
 ## Matlab resources:
 
